@@ -28,6 +28,18 @@ h1 {
     font-size: 1.3em;
 }
 
+.container {
+    width: 59%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.imagem {
+    width: 100%;
+    height: auto;
+}
+
 #rodape {
     text-align: center;
 }
