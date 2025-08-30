@@ -43,3 +43,12 @@ h1 {
 #rodape {
     text-align: center;
 }
+
+@media (max-width: 1000px) {
+   .container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+}
